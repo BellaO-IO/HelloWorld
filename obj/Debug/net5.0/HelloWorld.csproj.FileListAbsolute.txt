@@ -1,0 +1,16 @@
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\Bella\Desktop\repos\helloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
